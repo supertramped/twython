@@ -2,10 +2,10 @@ from twython import Twython
 import json
 import sys
 
-CONSUMER_KEY =  "0YFRlmpYynzylhNKwPGPJxPxd"
-CONSUMER_SECRET = "jNFJKNJDN1nGGI4yvq8xLj5PhWmRwqm5rqh1KTvTP4eJulCT8b"
-OAUTH_TOKEN = "4560634274-HFuBXpb4DO7BIjs3tfc8oGbP1k1ATnSdxXlaCsY"
-OAUTH_TOKEN_SECRET = "zIbwvTkDIKuGhintB2cskWWwU94Vzm6NJv53cWkCfZYKN"
+CONSUMER_KEY =  ""
+CONSUMER_SECRET = ""
+OAUTH_TOKEN = ""
+OAUTH_TOKEN_SECRET = ""
 
 
 twitter = Twython(
